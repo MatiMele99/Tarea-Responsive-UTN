@@ -63,7 +63,7 @@ body{
 
 .hero{
     /* justify-content: center; */
-    background-image: url(/tarearesponsive/images/hero-img.png);
+    background-image: url(/images/hero-img.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
